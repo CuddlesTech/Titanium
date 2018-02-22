@@ -1,0 +1,5 @@
+main: main.lua
+version: alpha_0
+name: Titanium
+description: Fully automatic land claiming plugin.
+author: CuddlesTech
